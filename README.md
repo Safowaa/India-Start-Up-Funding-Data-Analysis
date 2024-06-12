@@ -87,7 +87,7 @@ This project provides a comprehensive analysis of start-up funding in India from
 
 ## Recommendations
 - Visit [Link](https://app.powerbi.com/groups/me/reports/0b51fc42-452b-4a16-9d58-b2af797904bb/728c1bd97ea7ae915e17?experience=power-bi&clientSideAuth=0) to interact with the dashboard of this project.
-- Visit [Link](https://medium.com/@safowaabenedicta/analyzing-india-start-up-funding-8530ff789232)
+- Visit [Link](https://medium.com/@safowaabenedicta/analyzing-india-start-up-funding-8530ff789232) to read article.
 - Focus on sectors that are most favored by investors, such as Technology and Financial Services.
 - Consider establishing headquarters in popular locations like Bengaluru, Mumbai, and Gurugram.
 - Pay attention to funding stages.
