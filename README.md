@@ -13,7 +13,7 @@ This project analyzes funding data for Indian start-up companies between 2018 an
 ## Visualizations
 
 ### PowerBI Dashboard 
-![India start up funding Dashboard](visuals/Dashboard.png)
+![India start up funding Dashboard](visuals/BiDashboard.png)
 
 1. **Funding Trends Over Time**  
    ![Funding Trends Over Time](visuals/funding_trends.png)
