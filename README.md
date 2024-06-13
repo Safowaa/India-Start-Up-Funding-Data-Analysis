@@ -86,8 +86,11 @@ The data loading and cleaning process involves fetching data from various source
 This project provides a comprehensive analysis of start-up funding in India from 2018 to 2021. The insights gained from this analysis can help inform strategic decisions for new ventures looking to enter the Indian market.
 
 ## Recommendations
+- There is the need for more focus on sectors investors favour most, such as technology, financial services and Education.
+- The Fund needs consider establishing headquarters in populous locations like Bengaluru, Mumbai, and Gurugram..
+- Pay attention to funding stages.
+
+## References
 - Visit [Link](https://app.powerbi.com/groups/me/reports/0b51fc42-452b-4a16-9d58-b2af797904bb/728c1bd97ea7ae915e17?experience=power-bi&clientSideAuth=0) to interact with the dashboard of this project.
 - Visit [Link](https://medium.com/@safowaabenedicta/analyzing-india-start-up-funding-8530ff789232) to read article.
-- Focus on sectors that are most favored by investors, such as Technology and Financial Services.
-- Consider establishing headquarters in popular locations like Bengaluru, Mumbai, and Gurugram.
-- Pay attention to funding stages.
+- Google Exchange Rates:[Link] (https://www.exchangerates.org.uk/INR-USD-spot-exchange-rates-history.html) 
